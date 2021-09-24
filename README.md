@@ -22,5 +22,9 @@ Southern Buh river valley, Ukraine (47.96 N, 31.03 E).
 [Anton Biatov](https://github.com/abiatov) - coding
 
 [Dariia Shyriaieva](darshyr@gmail.com) - idea and ground truth
+
+## References
+
+Shyriaieva, D., Prylutskyi, O. (2021). Exploratory analysis of the spectral reflectance curves of habitat types: a case study on Southern Bug River valley, Ukraine. In: 63rd IAVS Annual Symposium: Book of Abstracts, p. 153.
  
  
