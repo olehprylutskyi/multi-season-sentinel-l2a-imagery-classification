@@ -16,10 +16,11 @@ For correct displaying of classified imagery one should manually edit the palett
 ## Example of results
 Southern Buh river valley, Ukraine (47.96 N, 31.03 E).
  
-![Map of 26 EUNIS habitat types](https://github.com/olehprylutskyi/multi-season-sentinel-l2a-imagery-classification/exampleresults.png)
+![Map of 26 EUNIS habitat types](https://github.com/olehprylutskyi/multi-season-sentinel-l2a-imagery-classification/blob/main/exampleresults.png)
 
 ## Contributors
 [Anton Biatov](https://github.com/abiatov) - coding
-[Dariia Shyriaieva](darshyr@gmail.com) (idea and ground truth)
+
+[Dariia Shyriaieva](darshyr@gmail.com) - idea and ground truth
  
  
