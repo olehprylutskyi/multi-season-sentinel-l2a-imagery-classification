@@ -19,9 +19,11 @@ Southern Buh river valley, Ukraine (47.96 N, 31.03 E).
 ![Map of 26 EUNIS habitat types](https://github.com/olehprylutskyi/multi-season-sentinel-l2a-imagery-classification/blob/main/exampleresults.png)
 
 ## Contributors
-[Anton Biatov](https://github.com/abiatov) - coding
+[Oleh Prylutskyi](https://github.com/olehprylutskyi) - idea and code
 
 [Dariia Shyriaieva](darshyr@gmail.com) - idea and ground truth
+
+[Anton Biatov](https://github.com/abiatov) - code
 
 ## References
 
